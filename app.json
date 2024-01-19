@@ -1,7 +1,7 @@
 {
-    "name": "ᴀɴᴏɴ ダ ᴍᴜsɪᴄ",
+    "name": ".͞𝐎𝐏 𓆩〭〬҉⃝ (𝗗e̶v̶i̶l̶𝗠u͜͡s͜͡i͜͡c͜͡𝗞𝗶ñ𝗴🔥💕",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/b8a0c1a00db3e57522b53.jpg",
+    "logo": "https://graph.org/file/4ab63f276eeede5db0201.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -14,17 +14,17 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "24679684",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "2c9177885d4a3cc1fb68b3ea2bf886df",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "5873136769:AAHV_at6-11qrqic2sLEmR7DQmev1UcsS7o",
         "required": true
       },
       "MONGO_DB_URI": {
@@ -34,7 +34,7 @@
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "",
+        "value": "2059751904",
         "required": true
       },
       "STRING_SESSION": {
@@ -54,7 +54,7 @@
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "",
+        "value": "-1001650906730",
         "required": true
       }
     },
